@@ -6,6 +6,11 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
+/**
+ Nama  : Muhamad Dimas
+ NIM   : 10119288
+ Kelas : IF7
+ */
 
 public class SplashScreen extends AppCompatActivity {
 

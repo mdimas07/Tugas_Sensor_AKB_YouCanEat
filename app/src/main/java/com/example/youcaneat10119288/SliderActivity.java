@@ -7,7 +7,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
+/**
+ Nama  : Muhamad Dimas
+ NIM   : 10119288
+ Kelas : IF7
+ */
 public class SliderActivity extends AppCompatActivity {
 
     ViewPager viewPager;

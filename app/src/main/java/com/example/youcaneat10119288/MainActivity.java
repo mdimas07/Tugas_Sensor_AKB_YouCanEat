@@ -7,6 +7,11 @@ import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 import com.example.youcaneat10119288.databinding.ActivityMainBinding;
 
+/**
+ Nama  : Muhamad Dimas
+ NIM   : 10119288
+ Kelas : IF7
+ */
 
 public class MainActivity extends AppCompatActivity {
 

@@ -7,7 +7,11 @@ import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
-
+/**
+ Nama  : Muhamad Dimas
+ NIM   : 10119288
+ Kelas : IF7
+ */
 public class Adapter_VP extends PagerAdapter {
     int[] layouts;
     LayoutInflater layoutInflater;
